@@ -51,6 +51,8 @@ def generate_wordcloud(words):
 
 # 数据可视化分析函数
 def visualize_data(df):
+    plt.rcParams['font.sans-serif'] = ['SIMHEI']  # 指定默认字体
+    plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
     # 课程点击次数分布
     st.subheader("课程点击次数分布")
     plt.figure(figsize=(10, 6))
