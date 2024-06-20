@@ -1,6 +1,7 @@
 import requests
 from lxml import etree
 import pandas as pd
+import matplotlib
 from matplotlib.font_manager import FontProperties
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
