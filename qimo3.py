@@ -14,7 +14,7 @@ from collections import Counter
 # plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
 
 # Specify the path to your font file
-font_path = 'SimHei.ttf'
+font_path = 'SIMHEI.TTF'
 
 # Register the font with matplotlib
 prop = FontProperties(fname=font_path)
