@@ -7,7 +7,7 @@ import streamlit as st
 from collections import Counter
 
 # 设置matplotlib默认字体为SimHei，以支持中文显示
-plt.rcParams['font.sans-serif'] = ['SimHei']  # 指定默认字体
+plt.rcParams['font.sans-serif'] = ['SIMHEI']  # 指定默认字体
 plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
 
 # 定义数据清洗函数
