@@ -46,7 +46,7 @@ def get_hbnu_course_info(url):
 
 # 生成词云图
 def generate_wordcloud(words):
-    wordcloud = WordCloud(font_path="C:/Windows/Fonts/msyh.ttc", width=800, height=400, background_color='white').generate(' '.join(words))
+    wordcloud = WordCloud(font_path="SIMHEI.TTF", width=800, height=400, background_color='white').generate(' '.join(words))
     return wordcloud
 
 # 数据可视化分析函数
