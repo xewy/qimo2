@@ -1,17 +1,25 @@
 import requests
 from lxml import etree
 import pandas as pd
+from matplotlib.font_manager import FontProperties
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import streamlit as st
 from collections import Counter
-import matplotlib.pyplot as mpl
+# import matplotlib.pyplot as mpl
 
 # # 设置matplotlib默认字体为SimHei，以支持中文显示
 # plt.rcParams['font.sans-serif'] = ['SIMHEI']  # 指定默认字体
 # plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
 
-mpl.font_manager.fontManager.addfont('SimHei.ttf') #临时注册新的全局字体
+# Specify the path to your font file
+font_path = 'SimHei.ttf'
+
+# Register the font with matplotlib
+prop = FontProperties(fname=font_path)
+matplotlib.font_manager.fontManager.addfont(font_path)
+
+# mpl.font_manager.fontManager.addfont('SimHei.ttf') #临时注册新的全局字体
 plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
 plt.rcParams['axes.unicode_minus']=False#用来正常显示负号
 
