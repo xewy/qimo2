@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="-nMJPA9WsmWQDxrl3pQ_">
     <mxGraphModel dx="1290" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,12 +50,9 @@
           <mxGeometry x="239" y="220" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-16" value="知识点导读" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="260" y="260" width="80" height="20" as="geometry" />
+          <mxGeometry x="303" y="260" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-17" value="观看微课视频" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="350" y="260" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-18" value="自主选择资源探索知识" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="J8LCAEnsq7eVZJ1q0n39-18" value="个性化学习学习任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="270" y="290" width="146" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-19" value="提问在线讨论" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
@@ -70,7 +67,7 @@
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-23" value="发布学习任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="503.75" y="260" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-24" value="针对学生学习情况" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="J8LCAEnsq7eVZJ1q0n39-24" value="及时调整教学内容" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="500" y="320" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-25" value="AI分析学习者行为" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
@@ -88,16 +85,16 @@
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="239" y="419" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-31" value="课程单元讲解" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="J8LCAEnsq7eVZJ1q0n39-31" value="情景化学习" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="260" y="459" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-32" value="教学演示（沉浸式教学）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="J8LCAEnsq7eVZJ1q0n39-32" value="动手操作与实践练习" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="260" y="489" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-33" value="分组谈论协作" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="350" y="459" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-34" value="参与课程实践" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="J8LCAEnsq7eVZJ1q0n39-34" value="实时互动挑战" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="259" y="519" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-35" value="快题任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
@@ -134,28 +131,19 @@
           <mxGeometry x="250" y="659" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-46" value="完成巩固练习" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="334.5" y="689" width="100" height="20" as="geometry" />
+          <mxGeometry x="290" y="719" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-47" value="个性化知识点巩固" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="336" y="659" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-48" value="师生互动讨论" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="256" y="719" width="76" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-49" value="调整学习路径" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="338.5" y="719" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-50" value="使用AI工具" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="254.5" y="749" width="79" height="20" as="geometry" />
+          <mxGeometry x="250" y="689" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="481" y="619" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-52" value="推送个性化巩固练习" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="515" y="687" width="139" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-53" value="任务追踪与反馈" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="515" y="714" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-54" value="与前测对比" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="501" y="659" width="79" height="20" as="geometry" />
@@ -170,16 +158,13 @@
           <mxGeometry x="516" y="629" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-58" value="完成自我评价" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="340" y="749" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-59" value="AR线上实验" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="250" y="689" width="79" height="20" as="geometry" />
+          <mxGeometry x="346" y="689" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-60" value="学习路径优化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="536.22" y="739" width="89.57" height="20" as="geometry" />
+          <mxGeometry x="542.2099999999999" y="715" width="89.57" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-61" value="导入AI完成多元评价与预警" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="504.25" y="764" width="155.75" height="20" as="geometry" />
+          <mxGeometry x="505.32" y="741" width="155.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-62" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arrowWidth=0.36666259765623294;arrowSize=0.5444432576497396;" parent="1" vertex="1">
           <mxGeometry x="329" y="184" width="20" height="30" as="geometry" />
