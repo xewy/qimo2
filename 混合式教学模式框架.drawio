@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="-nMJPA9WsmWQDxrl3pQ_">
     <mxGraphModel dx="1290" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-12" value="完成学习者个性测验" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="279" y="156" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J8LCAEnsq7eVZJ1q0n39-13" value="构建学习者画像" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="J8LCAEnsq7eVZJ1q0n39-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;学习风格分析&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="520" y="127" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J8LCAEnsq7eVZJ1q0n39-14" value="准备教学资源" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#4D4D4D;" parent="1" vertex="1">
