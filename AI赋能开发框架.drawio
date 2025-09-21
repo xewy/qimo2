@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="第 1 页" id="VxwswA1CDqskSliWBCK6">
-    <mxGraphModel dx="2880" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2360" dy="384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
         <mxCell id="JnCEbH-ntcEdmTGc3oJX-9" value="实施过程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1333" width="132.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JnCEbH-ntcEdmTGc3oJX-196" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JnCEbH-ntcEdmTGc3oJX-10" edge="1" target="JnCEbH-ntcEdmTGc3oJX-9">
+        <mxCell id="JnCEbH-ntcEdmTGc3oJX-196" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JnCEbH-ntcEdmTGc3oJX-10" target="JnCEbH-ntcEdmTGc3oJX-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-991" y="1330" as="targetPoint" />
           </mxGeometry>
@@ -362,141 +362,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-481.5" y="1458.5" as="sourcePoint" />
             <mxPoint x="-541.5" y="1458.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-26" value="高中信息技术 AI赋能教学资源开发框架" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="956" y="1580" width="260" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-27" value="演示类资源" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="346" y="1708" width="140" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-28" value="互动类资源" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1016" y="1708" width="140" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-29" value="辅助类资源" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="1708" width="140" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-30" value="PPT课件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="68" y="1812" width="119" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-31" value="ChatGPT + Canva &#xa; 智能内容生成 &#xa; 工具: ChatGPT, Canva" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1928" width="216" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-32" value="微课视频" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="354" y="1812" width="124" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-33" value="剪映 + AI数字人 + AI视频生成 &#xa; 视频自动化制作 &#xa; 工具: 剪映, 有言数字人" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="286" y="1916" width="260" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-34" value="思维导图" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="617" y="1812" width="124" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-35" value="XMind + AI美化 &#xa; 自动布局优化 &#xa; 工具: XMind" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="596" y="1928" width="166" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-36" value="三维游戏" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="879" y="1812" width="124" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-37" value="UE5 + Blender &#xa; 沉浸式学习体验 &#xa; 工具: Unreal Engine 5, Blender" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="811" y="1916" width="260" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-38" value="互动网页游戏" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1153" y="1812" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-39" value="HTML5 + JavaScript &#xa; 自适应交互设计 &#xa; 工具: VS Code, 浏览器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="1928" width="219" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-40" value="错题讲解片段" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1442" y="1812" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-41" value="AI分析错题 + AI视频生成 &#xa; 个性化讲解 &#xa; 工具: ChatGPT, 剪映, 有言数字人" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1916" width="260" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-26" target="u-_T65ozk4p2TlBlBN9i-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="416" y="1683" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-26" target="u-_T65ozk4p2TlBlBN9i-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-26" target="u-_T65ozk4p2TlBlBN9i-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1520" y="1683" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-27" target="u-_T65ozk4p2TlBlBN9i-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="128" y="1787" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-30" target="u-_T65ozk4p2TlBlBN9i-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-27" target="u-_T65ozk4p2TlBlBN9i-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-32" target="u-_T65ozk4p2TlBlBN9i-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-27" target="u-_T65ozk4p2TlBlBN9i-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="679" y="1787" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-34" target="u-_T65ozk4p2TlBlBN9i-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-28" target="u-_T65ozk4p2TlBlBN9i-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="941" y="1787" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-36" target="u-_T65ozk4p2TlBlBN9i-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-28" target="u-_T65ozk4p2TlBlBN9i-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1231" y="1787" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-38" target="u-_T65ozk4p2TlBlBN9i-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-29" target="u-_T65ozk4p2TlBlBN9i-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u-_T65ozk4p2TlBlBN9i-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="u-_T65ozk4p2TlBlBN9i-40" target="u-_T65ozk4p2TlBlBN9i-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
